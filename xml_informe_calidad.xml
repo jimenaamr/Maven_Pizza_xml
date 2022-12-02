@@ -1,0 +1,79 @@
+<root>
+  <doc>
+    <nodo1 name="nodo">El tipo de datos de cada columna en el data_dictionary.csv es:</nodo1>
+    <nodo2 atributo="algo">Table, Field, Description</nodo2>
+    <nodo2 atributo="algo">object, object, object</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de NaN de cada columna en el data_dictionary.csv es:</nodo2>
+    <nodo2 atributo="algo">Table, Field, Description</nodo2>
+    <nodo2 atributo="algo">0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de Null de cada columna en el data_dictionary.csv es:</nodo2>
+    <nodo2 atributo="algo">Table, Field, Description</nodo2>
+    <nodo2 atributo="algo">0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El tipo de datos de cada columna en el order_details.csv es:</nodo2>
+    <nodo2 atributo="algo">order_details_id, order_id, pizza_id, quantity</nodo2>
+    <nodo2 atributo="algo">int64, int64, object, object</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de NaN de cada columna en el order_details.csv es:</nodo2>
+    <nodo2 atributo="algo">order_details_id, order_id, pizza_id, quantity</nodo2>
+    <nodo2 atributo="algo">0, 0, 5673, 4726</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de Null de cada columna en el order_details.csv es:</nodo2>
+    <nodo2 atributo="algo">order_details_id, order_id, pizza_id, quantity</nodo2>
+    <nodo2 atributo="algo">0, 0, 5673, 4726</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El tipo de datos de cada columna en el orders.csv es:</nodo2>
+    <nodo2 atributo="algo">order_id, date, time</nodo2>
+    <nodo2 atributo="algo">int64, object, object</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de NaN de cada columna en el orders.csv es:</nodo2>
+    <nodo2 atributo="algo">order_id, date, time</nodo2>
+    <nodo2 atributo="algo">0, 2353, 2038</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de Null de cada columna en el orders.csv es:</nodo2>
+    <nodo2 atributo="algo">order_id, date, time</nodo2>
+    <nodo2 atributo="algo">0, 2353, 2038</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El tipo de datos de cada columna en el pizza_types.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_type_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">object, object, object, object</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de NaN de cada columna en el pizza_types.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_type_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">0, 0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de Null de cada columna en el pizza_types.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_type_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">0, 0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El tipo de datos de cada columna en el pizzas.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">object, object, object, float64</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de NaN de cada columna en el pizzas.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">0, 0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+    <nodo2 atributo="algo">El n&#250;mero de Null de cada columna en el pizzas.csv es:</nodo2>
+    <nodo2 atributo="algo">pizza_id, name, category, ingredients</nodo2>
+    <nodo2 atributo="algo">0, 0, 0, 0</nodo2>
+    <nodo2 atributo="algo">
+</nodo2>
+  </doc>
+</root>

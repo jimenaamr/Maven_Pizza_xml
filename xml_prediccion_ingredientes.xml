@@ -1,0 +1,70 @@
+<root>
+  <doc>
+    <nodo1 name="nodo">Ingrediente, Cantidad a comprar</nodo1>
+    <nodo2>Barbecued Chicken, 91</nodo2>
+    <nodo2>Red Peppers, 611</nodo2>
+    <nodo2>Green Peppers, 187</nodo2>
+    <nodo2>Tomatoes, 1009</nodo2>
+    <nodo2>Red Onions, 732</nodo2>
+    <nodo2>Barbecue Sauce, 91</nodo2>
+    <nodo2>Chicken, 328</nodo2>
+    <nodo2>Artichoke, 86</nodo2>
+    <nodo2>Spinach, 341</nodo2>
+    <nodo2>Garlic, 1056</nodo2>
+    <nodo2>Jalapeno Peppers, 224</nodo2>
+    <nodo2>Fontina Cheese, 120</nodo2>
+    <nodo2>Gouda Cheese, 86</nodo2>
+    <nodo2>Mushrooms, 316</nodo2>
+    <nodo2>Asiago Cheese, 121</nodo2>
+    <nodo2>Alfredo Sauce, 35</nodo2>
+    <nodo2>Pesto Sauce, 97</nodo2>
+    <nodo2>Corn, 138</nodo2>
+    <nodo2>Cilantro, 138</nodo2>
+    <nodo2>Chipotle Sauce, 138</nodo2>
+    <nodo2>Pineapple, 175</nodo2>
+    <nodo2>Thai Sweet Chilli Sauce, 95</nodo2>
+    <nodo2>Bacon, 109</nodo2>
+    <nodo2>Pepperoni, 321</nodo2>
+    <nodo2>Italian Sausage, 32</nodo2>
+    <nodo2>Chorizo Sausage, 32</nodo2>
+    <nodo2>Sliced Ham, 80</nodo2>
+    <nodo2>Mozzarella Cheese, 405</nodo2>
+    <nodo2>Capocollo, 262</nodo2>
+    <nodo2>Goat Cheese, 132</nodo2>
+    <nodo2>Oregano, 55</nodo2>
+    <nodo2>Anchovies, 50</nodo2>
+    <nodo2>Green Olives, 212</nodo2>
+    <nodo2>Kalamata Olives, 130</nodo2>
+    <nodo2>Feta Cheese, 173</nodo2>
+    <nodo2>Beef Chuck Roast, 66</nodo2>
+    <nodo2>Brie Carre Cheese, 8</nodo2>
+    <nodo2>Prosciutto, 8</nodo2>
+    <nodo2>Caramelized Onions, 8</nodo2>
+    <nodo2>Pears, 8</nodo2>
+    <nodo2>Thyme, 8</nodo2>
+    <nodo2>&#145;Nduja Salami, 35</nodo2>
+    <nodo2>Pancetta, 35</nodo2>
+    <nodo2>Friggitello Peppers, 35</nodo2>
+    <nodo2>Calabrese Salami, 72</nodo2>
+    <nodo2>Genoa Salami, 56</nodo2>
+    <nodo2>Prosciutto di San Daniele, 49</nodo2>
+    <nodo2>Arugula, 49</nodo2>
+    <nodo2>Coarse Sicilian Salami, 64</nodo2>
+    <nodo2>Luganega Sausage, 64</nodo2>
+    <nodo2>Onions, 64</nodo2>
+    <nodo2>Soppressata Salami, 34</nodo2>
+    <nodo2>Artichokes, 202</nodo2>
+    <nodo2>Peperoncini verdi, 77</nodo2>
+    <nodo2>Provolone Cheese, 72</nodo2>
+    <nodo2>Smoked Gouda Cheese, 72</nodo2>
+    <nodo2>Romano Cheese, 72</nodo2>
+    <nodo2>Blue Cheese, 72</nodo2>
+    <nodo2>Ricotta Cheese, 87</nodo2>
+    <nodo2>Gorgonzola Piccante Cheese, 87</nodo2>
+    <nodo2>Parmigiano Reggiano Cheese, 87</nodo2>
+    <nodo2>Eggplant, 30</nodo2>
+    <nodo2>Zucchini, 82</nodo2>
+    <nodo2>Sun-dried Tomatoes, 64</nodo2>
+    <nodo2>Plum Tomatoes, 33</nodo2>
+  </doc>
+</root>
