@@ -28,8 +28,6 @@ En este repositorio se encuentran los archivos necesarios para hacer un xml de l
 
 ## Modo de Ejecución
 
-1- Instalar el requirements.txt
-
-2- Ejecutar el archivo crear_informe_xml.py para realizar el informe de calidad de los datos de cada uno de los csv en formato xml.
-
-3- Ejecutar el archivo crear_prediccion_xml.py para transformar el archivo prediccion_ingredientes16.csv a formato xml.
+1. Instalar el requirements.txt
+2. Ejecutar el archivo crear_informe_xml.py para realizar el informe de calidad de los datos de cada uno de los csv en formato xml.
+3. Ejecutar el archivo crear_prediccion_xml.py para transformar el archivo prediccion_ingredientes16.csv a formato xml.
